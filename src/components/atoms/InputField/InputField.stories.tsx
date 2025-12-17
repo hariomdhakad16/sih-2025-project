@@ -1,10 +1,10 @@
 import type { Meta, StoryObj } from '@storybook/react-vite';
 
-import Button from './Button';
+import InputField from './InputField';
 
 const meta = {
-  component: Button,
-} satisfies Meta<typeof Button>;
+  component: InputField,
+} satisfies Meta<typeof InputField>;
 
 export default meta;
 
