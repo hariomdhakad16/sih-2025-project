@@ -2,7 +2,7 @@
   "name": "sih-2025-project",
   "homepage": "https://github.io/hariomdhakad16/sih-2025-project",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite --open --host",
